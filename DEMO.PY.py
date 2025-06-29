@@ -1,4 +1,4 @@
-simport streamlit as st
+import streamlit as st
 st.title("AESTHETIC HEALTH/BEAUTY BY KUNAL TRIPATHI")
 st.header("fill the form to connect with our experts")
 name = st.text_input("enter your name")
